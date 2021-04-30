@@ -27,6 +27,7 @@
         android:layout_marginTop="32dp"
         android:gravity="center"
         android:text="@string/greetingText"
+        android:textColor="@color/foreground"
         android:textSize="30sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -37,6 +38,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
+        android:textColor="@color/foreground"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
@@ -51,6 +53,7 @@
         android:includeFontPadding="false"
         android:onClick="resetHighscore"
         android:text="@string/resetText"
+        android:textColor="@color/foreground"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
