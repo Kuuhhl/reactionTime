@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ReactionTime</string>
+    <string name="greetingText">Press Button to start</string>
+    <string name="waitText">Wait...</string>
+    <string name="pressText">Click!</string>
+    <string name="startGameText">play</string>
+    <string name="timeTakenText">Time taken</string>
+    <string name="highscoreText">Highscore:</string>
+    <string name="resetText">reset</string>
+</resources>

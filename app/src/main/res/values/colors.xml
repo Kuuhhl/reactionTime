@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#fbf1c7</color>
+    <color name="alternateBackground">#ebdbb2</color>
+    <color name="foreground">#3c3836</color>
+    <color name="statusbar">#1d2021</color>
+    <color name="purple">#d3869b</color>
+    <color name="green">#b8bb26</color>
+    <color name="gray">#a89984</color>
+</resources>
