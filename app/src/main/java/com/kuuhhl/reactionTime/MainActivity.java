@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void showHighscore(long score) {
-        highscoreTextview.setText(getString(R.string.highscoreText) + " " + score + " ms");
+        highscoreTextview.setText(getString(R.string.highscoreText) + ": " + score + " ms");
     }
 
     public void updateHighScore(long value) {
