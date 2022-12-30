@@ -1,4 +1,4 @@
-package com.kuuhhl.reactionTime;
+package com.philipp.reactionTime;
 
 import android.content.Context;
 
